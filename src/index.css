@@ -70,7 +70,7 @@ button {
 /* These are all the color options for the buttons */
 /* If you change the color variables, be sure to change the hover colors to be a darker shade of the colors you chose*/
 .btn-primary {
-  background-color: var(--primary);
+  background-color: var(--secondary);
 }
 
 .btn-primary:hover {
